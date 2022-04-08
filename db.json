@@ -1,26 +1,29 @@
 {
-	"id": 1,
-	"cName": "彭雅妮",
-	"displayOrder": "0001",
-	"division": "HQ",
-	"divisionDisplayOrder": "0001",
-	"email": "axxxxxxxx@dsd.gov.hk",
-	"fax": "2827xxxx/3103xxxxc",
-	"firstName": "Alice",
-	"lastName": "PANG",
-	"location": "4x/F, RT (Revenue Tower)",
-	"mobile": "9192xxxx",
-	"nameCL": "PANG",
-	"nameCLF": "PANG Axxxx",
-	"nameFull": "PANG Axxxx  彭雅妮",
-	"nameLF": "PANG Axxxx",
-	"nameLFC": "PANG Axxxx",
-	"pager": "",
-	"post": "D of DS",
-	"rank": "D of DS",
-	"section": "Directorate",
-	"sectionDisplayOrder": "0001",
-	"team": "",
-	"teamDisplayOrder": "0001",
-	"tel": "2594xxxx"
+	"posts": [{
+			"id": 1,
+			"title": "Post 1"
+		},
+		{
+			"id": 2,
+			"title": "Post 2"
+		},
+		{
+			"id": 3,
+			"title": "Post 3"
+		}
+	],
+	"comments": [{
+			"id": 1,
+			"body": "some comment",
+			"postId": 1
+		},
+		{
+			"id": 2,
+			"body": "some comment",
+			"postId": 1
+		}
+	],
+	"profile": {
+		"name": "typicode"
+	}
 }
