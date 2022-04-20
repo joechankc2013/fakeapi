@@ -1,9 +1,7 @@
 { "api":[
     {
         "objectName": "45/F,RT",
-        "category": "Receptions",
-        "displayTel": "2594 7545",
-        "tel": "25947545"
+        "category": "Receptions"
     }
     ]
 }
