@@ -1,28 +1,9 @@
-{ "api":
-[
+{ "api":[
     {
         "objectName": "45/F,RT",
         "category": "Receptions",
         "displayTel": "2594 7545",
         "tel": "25947545"
-    },
-    {
-        "objectName": "44/F,RT",
-        "category": "Receptions",
-        "displayTel": "2594 7444",
-        "tel": "25947444"
-    },
-    {
-        "objectName": "44/F,RT",
-        "category": "Receptions",
-        "displayTel": "2594 7446",
-        "tel": "25947446"
-    },
-    {
-        "objectName": "43/F, RT (HQ)",
-        "category": "Receptions",
-        "displayTel": "2594 7012",
-        "tel": "25947012"
     }
-]
+    ]
 }
