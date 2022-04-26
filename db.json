@@ -3,5 +3,42 @@
         "objectName": "45/F,RT",
         "category": "Receptions"
     }
-    ]
+    ],
+  "whatsNew":[
+      {
+          "id": 1,
+          "desc": "Version: iStaff v2.0.0 (Prototyping)",
+          "date": "2022-04-07"
+      },
+      {
+          "id": 2,
+          "desc": "Date: April 7, 2022",
+          "date": "2022-04-07"
+      },
+      {
+          "id": 3,
+          "desc": "Features:",
+          "date": "2022-04-07"
+      },
+      {
+          "id": 4,
+          "desc": "1. Rewritten in Swift 5.6",
+          "date": "2022-04-07"
+      },
+      {
+          "id": 5,
+          "desc": "2. User friendly modern user interface (UI)",
+          "date": "2022-04-07"
+      },
+      {
+          "id": 6,
+          "desc": "3. Planned for new Application Programming Interface (API)",
+          "date": "2022-04-07"
+      },
+      {
+          "id": 7,
+          "desc": "Rewritten in Swift 5.6",
+          "date": "2022-04-07"
+      }
+      ]
 }
