@@ -41,17 +41,5 @@
          "desc":"Updated prototype",
          "date":"2022-04-26"
       }
-   ],
-   "office":[
-      {
-         "location":"Government Telephone Directory",
-         "group":"Chief Secretary for Administration’s Office",
-         "tel":"https://www.directory.gov.hk/basic_search.jsp?lang=eng"
-      },
-      {
-         "location":"23/F,King's Road (HK&I)",
-         "group":"Reception",
-         "tel":"3101 2855"
-      }
    ]
 }
