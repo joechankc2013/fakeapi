@@ -71,31 +71,6 @@
         "location":"23/F,King's Road (HK&I)",
         "group":"Reception",
         "tel":"3101 2855",
-    },
-    {
-        "location":"42/F, RT (CM & PM)",
-        "group":"Reception",
-        "tel":"2594 7278",
-    },
-    {
-        "location":"Pantry (43/F), RT",
-        "group":"Pantry",
-        "tel":"2594 7150",
-    },
-    {
-        "location":"Rm 4506a, RT",
-        "group":"Conference Room",
-        "tel":"2594 7546",
-    },
-    {
-        "location":"Rm 4417b, RT",
-        "group":"Conference Room",
-        "tel":"2594 7490",
-    },
-    {
-        "location":"Rm 4419, RT",
-        "group":"Conference Room",
-        "tel":"2594 7336",
-    },
+    }
     ]
 }
