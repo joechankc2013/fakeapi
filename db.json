@@ -34,6 +34,16 @@
          "id":7,
          "desc":"Updated prototype",
          "date":"2022-04-26"
-      }
+      },
+      {
+         "id":8,
+         "desc":"Deployed to ITMU users for prototype testing purposes",
+         "date":"2022-04-28"
+      }      
+      {
+         "id":9,
+         "desc":"Feature for Division, Section and Team filtering is included",
+         "date":"2022-04-28"
+      }      
    ]
 }
