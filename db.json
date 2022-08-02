@@ -59,6 +59,11 @@
          "id":12,
          "desc":"Bug fixed at Custom Division",
          "date":"2022-06-10"
+      },      
+      {
+         "id":13,
+         "desc":"Updated icon for configurations",
+         "date":"2022-08-02"
       }
    ]
 }
