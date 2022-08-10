@@ -64,6 +64,11 @@
          "id":13,
          "desc":"Updated icon for configurations",
          "date":"2022-08-02"
+      },      
+      {
+         "id":14,
+         "desc":"Filter button would not be available at Custom Division Tab",
+         "date":"2022-08-10"
       }
    ]
 }
