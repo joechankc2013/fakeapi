@@ -67,7 +67,7 @@
       },      
       {
          "id":14,
-         "desc":"Filter button would not be available at Custom Division Tab",
+         "desc":"Filter button would not be available at Custom Division Tab, and bugs fixed at filters",
          "date":"2022-08-10"
       }
    ]
